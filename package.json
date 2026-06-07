@@ -1,0 +1,9 @@
+{
+  "name": "margins-project",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static copy of the MARGINS site from lovable.app",
+  "scripts": {
+    "start": "npx serve . -s"
+  }
+}

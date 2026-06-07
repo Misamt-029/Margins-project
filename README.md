@@ -16,3 +16,19 @@ Open `index.html` in a browser to view the app locally.
 ## Notes
 
 This repo stores the generated/static version of the site as fetched from the live app.
+
+## Local Preview
+
+1. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+2. Start the static preview server:
+
+   ```bash
+   npm start
+   ```
+
+Then open the local URL shown in the terminal.
